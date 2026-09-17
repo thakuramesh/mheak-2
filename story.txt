@@ -1,20 +1,60 @@
-10 sec | A small bear cub slipping on a frozen waterfall, desperately clinging to a thin branch as a massive blizzard rages.
-10 sec | A ragged orange fox sprinting through a collapsing junk yard, holding tightly onto a shiny lost locket.
-40 sec | A deer boy with broken horns dodging falling trees and flying debris in a violently windy dark forest.
-30 sec | A tiny rabbit burrowing frantically as its underground home starts to collapse from heavy rain flooding above.
-45 sec | A mother bear shielding her cub from a massive snow avalanche, pushing aggressively through deep freezing snow.
-50 sec | A lone penguin sliding uncontrollably down a massive cracking glacier, trying to reach the ocean before the ice shatters.
-35 sec | A fluffy white wolf pup tumbling down a steep snowy mountain, desperately trying to catch a falling glowing leaf.
-40 sec | A lost seal pup swimming frantically through a dark dangerous maze of sharp underwater ice crystals.
-45 sec | A shivering husky pulling a broken wooden sled through a blinding freezing blizzard, refusing to stop despite exhaustion.
-30 sec | A snow leopard jumping frantically across melting sinking ice chunks on a roaring dark river.
-50 sec | A rusty forgotten robot running through a futuristic scrapyard to save a fragile glowing flower from a massive dust storm.
-40 sec | A small alien child running away in terror from towering dark silhouettes in an abandoned rainy space port.
-35 sec | A toy soldier coming to life, struggling and crawling through a muddy flooded garden to return to its owner's house.
-45 sec | A mechanical bird with a broken wing hopping frantically to escape a violently rising dark tide on a rocky beach.
-60 sec | A discarded plush bunny getting washed down a rushing city gutter, fighting desperately to stay afloat in the dark water.
-40 sec | A baby elephant sliding down a steep muddy ravine, trying to desperately follow its herd in the pouring rain.
-35 sec | A sad monkey running through a crowded, uncaring city street in the rain holding a torn photograph of its family.
-50 sec | A tiny dragon who cannot fly, sprinting up a crumbling stone tower to escape a massive dark flood rushing below.
-30 sec | A scared raccoon darting aggressively through heavy street traffic in the rain to rescue a dropped shiny coin.
-45 sec | A homeless kitten dragging a heavy, wet blanket through a dark windy alleyway while a violent thunderstorm rages.
+45 sec | A deep-sea diver swimming frantically away from a collapsing underwater cave during a sea-quake.
+35 sec | A tiny baby turtle swimming desperately away from a massive underwater rockslide in the dark.
+50 sec | A brave scuba diver struggling against a violently spinning underwater whirlpool to reach the surface.
+40 sec | A small lost dolphin calling for its pod while hiding from dark shadowy sharks in a deep coral reef.
+45 sec | A heroic sailor cutting the tangled ropes of a sinking ship in the middle of a massive hurricane.
+35 sec | A glowing tiny jellyfish getting swept away by a fast deep-ocean current, spinning wildly.
+55 sec | A brave ocean explorer trapped inside a small submarine, trying to fix a sparking control panel.
+40 sec | A young boy on a small wooden raft paddling furiously to escape a massive rising tsunami wave.
+45 sec | A fierce mother whale violently slamming her tail to scare away approaching dark shadows.
+50 sec | A deep-sea diver holding onto a heavy anchor line while strong ocean currents try to rip him away.
+35 sec | A brave little crab clinging to a piece of driftwood in a massive stormy ocean, fighting giant waves.
+45 sec | A terrified sailor sliding across the slippery, tilted deck of a massive sinking cargo ship.
+55 sec | A young free-diver swimming through a maze of sharp broken coral reefs to escape a predator.
+40 sec | A small glowing deep-sea fish navigating through a forest of massive, dark underwater seaweeds.
+50 sec | A heroic rescue swimmer diving from a helicopter into the dark violently roaring stormy sea.
+35 sec | A lost baby seal trying to climb onto a cracking, floating ice block in freezing waters.
+45 sec | A brave diver using a bright flare to signal for help in the pitch-black abyss of the ocean.
+40 sec | A young surfer paddling desperately on his board to outrun a massive, terrifying dark wave.
+50 sec | A majestic manta ray leaping high out of the water, dodging a fast-moving speed boat.
+35 sec | A heroic underwater welder frantically trying to seal a massive leaking pipe before it explodes.
+45 sec | A brave penguin swimming incredibly fast through a narrow ice tunnel to escape a leopard seal.
+55 sec | A terrified sailor holding his breath underwater, trying to swim out of a submerged cabin.
+40 sec | A tiny seahorse getting trapped inside a swirling underwater dust storm of sand and debris.
+50 sec | A brave scuba diver shining a flashlight on a massive, terrifying shadowy creature in the deep.
+35 sec | A young girl swimming towards a floating lifebuoy in a dark, cold, and stormy ocean.
+45 sec | A heroic coast guard pulling a drowning fisherman onto a small rescue boat in heavy rain.
+40 sec | A lost octopus camouflaging itself against a rocky wall as a massive shadow swims past.
+50 sec | A brave diver struggling to pull his foot free from a heavy tangled fishing net underwater.
+35 sec | A majestic sea turtle swimming calmly through a chaotic underwater storm of bubbles and rocks.
+45 sec | A young boy clinging tightly to the mast of a small sinking sailboat in a hurricane.
+55 sec | A deep-sea submarine violently shaking as it enters a high-pressure, freezing dark trench.
+40 sec | A brave dolphin pushing a tired, drowning swimmer towards the safety of the shallow beach.
+50 sec | A heroic diver breaking a stuck glass window to escape a sunken, rusted underwater airplane.
+35 sec | A small clownfish hiding inside a violently swaying sea anemone during a strong ocean current.
+45 sec | A young sailor desperately tossing heavy barrels off the deck to stop the ship from sinking.
+40 sec | A brave freediver swimming up through a narrow vertical cave, gasping for his last breath.
+50 sec | A massive humpback whale swimming gracefully through a dark, eerie underwater sunken city.
+35 sec | A terrified deep-sea explorer dropping his flashlight into the pitch-black infinite abyss.
+45 sec | A heroic coast guard jumping from a high cliff into the roaring stormy sea to save a dog.
+55 sec | A brave scuba diver dodging falling rusted metal pieces inside a massive sunken battleship.
+40 sec | A lost baby whale crying out emotionally in the vast, empty, dark blue ocean.
+50 sec | A young surfer wiping out and tumbling violently underwater inside a massive crashing wave.
+35 sec | A small crab digging a deep hole in the wet sand to escape a fast-approaching seagull.
+45 sec | A brave sailor gripping the ship's wooden steering wheel tightly as lightning strikes nearby.
+40 sec | A heroic underwater photographer protecting her camera from a sudden violent underwater mudslide.
+50 sec | A deep-sea rover driving across the dark ocean floor, discovering a glowing alien-like plant.
+35 sec | A brave penguin sliding on its belly across a cracking ice sheet to dive into the safe water.
+45 sec | A young girl wearing a life vest floating alone in the dark, massive, and scary open ocean.
+55 sec | A heroic diver swimming through a thick swarm of stinging jellyfish to reach a sunken treasure.
+40 sec | A majestic shark leaping out of the dark water into the heavy pouring rain and thunder.
+50 sec | A brave sailor climbing the tall slippery mast to fix a torn sail in the violent wind.
+35 sec | A small glowing squid swimming frantically away from a massive closing underwater vent.
+45 sec | A heroic rescue swimmer dragging a heavy floating cooler to save a stranded family in the sea.
+40 sec | A deep-sea diver looking in awe at a massive, ancient glowing underwater stone statue.
+50 sec | A brave boy swimming through a dark, flooded underground sea-cave with a small waterproof torch.
+35 sec | A lost baby dolphin jumping high out of the water, looking across the horizon for its mother.
+45 sec | A heroic submarine captain pulling a heavy emergency lever as the cabin fills with red warning lights.
+55 sec | A terrified diver swimming away from a massive, dark underwater volcanic eruption of bubbles.
+40 sec | A brave sailor looking out at the calm, beautiful sunrise after surviving a terrifying night storm.
+50 sec | A majestic blue whale swimming slowly out of the dark shadows into a bright underwater sunbeam.S
